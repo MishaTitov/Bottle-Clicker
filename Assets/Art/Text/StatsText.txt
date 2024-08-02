@@ -1,0 +1,10 @@
+> Bottles in bank: {0}
+> Bottles picked up (all time): {1}
+> Run started: {2}
+> Buildings owned: {3}
+> Bottles per second: {4}
+> Multiplier BpS: +{5}%
+> Bottles per click: {6}
+> Multiplier BpC: +{7}%
+> Bottles clicks: {8}
+> Achievements unlocked: {9} / {10}

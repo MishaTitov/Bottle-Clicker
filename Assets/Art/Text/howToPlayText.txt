@@ -1,0 +1,13 @@
+﻿> Click on Bottle to collect a bottle
+  - Bottle per Click = BpC
+> Buy Buildings to collect bottle each second
+  - Bottle per Second = BpS
+> Buy Upgrades to upgrade you Buildings, BpC, BpS and etc.
+> Randomizer each 2min random drops 1 of 4 game effect:
+  - 'Luck' gives you 10% of amount bottles
+  - 'Fail' remove 5% of amount bottles
+  - 'Buff BpC' gives +777% BpS to BpC for 17sec
+  - 'Buff BpS' gives +7% BpS to BpS and BpC for 77sec
+> Time Upgrade gives you +N% BpS to BpS and BpC for each Nth hour in game
+> Each 5 Achievements gives you +N% BpS To BpS and BpC
+  - N = (unlocked achievements) / 5
